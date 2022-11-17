@@ -1,0 +1,21 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.imageCla{
+  max-width: 2000px;
+  max-height: 800px;
+  width: 800px;
+  height: 400px;
+}
